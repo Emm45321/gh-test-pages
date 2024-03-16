@@ -2,7 +2,8 @@ import { createRouter, createWebHistory } from 'vue-router';
 
 
 const routes = [
-    { path: '/', component: ()=>import('../views/Home.vue') },
+    { path: '/deploy-test/', component: ()=>import('../views/Home.vue') },
+    { path: '/deploy-test/caroverview', component: ()=>import('../views/CarOverview.vue')},
   ];
 
   const router = createRouter({

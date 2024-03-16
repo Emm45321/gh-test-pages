@@ -30,9 +30,8 @@
                     class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
             </div>
         </div>
+        
         <!-- Slider controls -->
-       
-
         <div class="text-center absolute top-0 left-0 right-0 bottom-0 border-2 border-red-300 z-40 grid place-items-center">
           <div>
               <h1 class="text-7xl text-white font-extrabold">Car Rentals</h1>
